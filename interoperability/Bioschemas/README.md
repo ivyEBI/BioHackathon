@@ -51,6 +51,9 @@ Resources:
 - Michel Dumontier  
 
 ## Achievements
+- Dataset markup
+- Try to map the EGA data to the database markup
+- Looked at the sample. Will talk to the biosample team on the Day 3
 
 ### BioStudies
 - Created BioSchema for BioStudy ripository.
